@@ -38,9 +38,9 @@
     </tr>
     <tr>
         <th><img src="ss/13.jpg" alt="loading screenshot"  width="200" height="320"/></th>
-        <th></th>
-        <th></th>
         <th><img src="ss/14.jpg" alt="loading screenshot"  width="200" height="320"/></th>
+        <th></th>
+        <th></th>
     </tr>
     
 </table>
