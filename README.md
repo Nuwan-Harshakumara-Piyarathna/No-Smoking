@@ -52,7 +52,7 @@
     <li>HTC Google Nexus One [os-Marshmallow]</li>
     <li>Google Pixel 3a [os-Marshmallow]</li>
 </ul>
-<p>Apk file was added - <a href="https://github.com/NuwanHarsha/Deliveroo/tree/master/app-debug-apk">view APK</a> </p>
+
 <br>
 <h2>Contact Details</h2>
 <ul>
